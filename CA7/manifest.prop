@@ -1,0 +1,5 @@
+MANIFEST_VERSION = openstlinux-6.1-yocto-mickledore-mp1-v23.06.21
+KERNEL_DT = ./DeviceTree/PanGu_MCore/kernel
+OPTEE_DT = ./DeviceTree/PanGu_MCore/optee-os
+UBOOT_DT = ./DeviceTree/PanGu_MCore/u-boot
+TFA_DT = ./DeviceTree/PanGu_MCore/tf-a
